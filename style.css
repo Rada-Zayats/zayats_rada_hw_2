@@ -1,0 +1,17 @@
+.leftimg {
+	float: left;
+	margin-right: 7px;
+	height: 130px;
+}
+
+.main_h,.authors,.company,.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
